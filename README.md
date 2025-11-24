@@ -4,6 +4,8 @@ de blauwe bal is het projectiel dat omlaag valt door gravity
 
 de gele sterren zijn de targets --> raken verdwijnen = punten
 
+idee van iemand: je bal komt weer naar boven zodra de bal in de mond valt (kai cenat)
+
 Mechanics:
 
 1. je schiet de bal van boven
